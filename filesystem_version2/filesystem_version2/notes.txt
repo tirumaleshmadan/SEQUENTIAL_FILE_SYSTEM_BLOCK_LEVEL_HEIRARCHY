@@ -1,0 +1,86 @@
+
+
+
+                                 ////////////////// ########  HTML NOTES ######## /////////////////
+
+  HTML:STRUCTURE
+  CSS:PRESENTATION
+  JAVASCRIPT:BEHAVIOR
+  PHP:BACKEND
+  CMS:CONTENT MANAGEMENT
+
+
+1)head tag :  the head tag contains non-visual elements that help make the page work.
+2)body tag :  the body tag contains all the visual elemens 
+                     eg:headings,paragraphs,lists,quoates,images,and links 
+
+
+
+######------->ATTRIBUTES<-------::
+
+     -->attributes are always present in the starting tag.
+     -->they contain the additional information as shown below:
+                           name="value"
+
+      1)align       <p align="center">   values:center,left,right.
+      2)width       <hr width="50px"/>
+
+
+###-------->Types of elements<------::
+
+-->there are two types of elements:
+              1)block level elements:
+                       eg:<div><h1><p><table><li><ol><ul>      etc.
+                                 these elements always start in a new line.
+                                 these are used for storing other html elements.
+
+              2)inline elements:
+                       eg:<a><b><img><span><strong>        etc.
+                                 these are present inside the block level elements.
+                                       majorly these are used for styling purpose(along with css).
+
+              3)some elements are used as both block level elements and inline elements.they are::
+                          APPLET
+                          IFRAME
+                          INS
+                          MAP
+                          OBJECT
+                          SCRIPT
+
+
+###--------->HTML Colors<-------::
+           
+         -->from 0 to f;
+                 0,1,2,3,4,5,6,7,8,9,a,b,c,d,e,f;
+         -->rgb(___,___,___)
+         --># _ _ _ _ _ _
+         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+      
+
+      
